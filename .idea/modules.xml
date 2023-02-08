@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Url-hit-counter.iml" filepath="$PROJECT_DIR$/.idea/Url-hit-counter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/url-hit-counter/url-hit-counter.iml" filepath="$PROJECT_DIR$/url-hit-counter/url-hit-counter.iml" />
+    </modules>
+  </component>
+</project>
